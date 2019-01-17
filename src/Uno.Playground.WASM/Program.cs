@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Uno.UI.Demo
+﻿namespace Uno.UI.Demo
 {
 	public class Program
 	{
