@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using Uno.Extensions;
 using Windows.UI.Xaml.Data;
 
